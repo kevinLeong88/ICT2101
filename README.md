@@ -1,4 +1,9 @@
 # ICT2101
-This is a repo for ICT2101
+Welcome to the first creation of our new BRANCH PROJECT!
 
-This is to activate automatic build. 
+                                 \                  /
+                   --------------/------------------\--------------
+                   \                                              /
+                   
+                   
+                   
